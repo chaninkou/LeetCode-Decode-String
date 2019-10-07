@@ -3,6 +3,7 @@ package decode;
 import java.util.Stack;
 
 public class DecodeStringSolution {
+	// Found a better way to do this
     public String decodeString(String s) {
         Stack<Integer> intStack = new Stack<>();
         
