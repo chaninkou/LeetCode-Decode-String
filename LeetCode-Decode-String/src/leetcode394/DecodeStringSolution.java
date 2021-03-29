@@ -1,4 +1,4 @@
-package decode;
+package leetcode394;
 
 import java.util.Stack;
 
